@@ -1,8 +1,4 @@
 # Demo Git Repository
-This is the first file in the repo.
+This repo contains test files, which has been created and modified while learning git.
 
-##Website Contents
-Here are the files in the website.
-1.index.html
-2.main.html
-3.page1.html
+
