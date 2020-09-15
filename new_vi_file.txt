@@ -2,3 +2,5 @@
 This is my test vi file
 
 Just a modification
+
+Another modification
